@@ -1,2 +1,2 @@
 # dotfiles-scripts
-Repositorio personal de archivos dot y scripts
+Repositorio personal de archivos dots, scripts y code golf
